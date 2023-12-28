@@ -1,0 +1,1 @@
+This GitHub Action automates data synchronization between GitHub and an external database using Node.js and PostgreSQL. Triggered on each push, it securely accesses GitHub Secrets for credentials, fetches data from GitHub API, and updates the external database.
